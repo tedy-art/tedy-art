@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedy-art&label=Profile%20views&color=0e75b6&style=flat" alt="tedy-art" /> </p>
 
-- 🔭 I’m currently working on [resort](https://github.com/tedy-art/sai_task)
+- 🔭 I’m currently working on [To Do](https://github.com/tedy-art/sai_task)
 
 - 🌱 I’m currently learning **python lang, Django Framework**
 
