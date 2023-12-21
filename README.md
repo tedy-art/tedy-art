@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Django Framework.**
 
-- 📫 How to reach me [@tejas_falke__/](https://www.instagram.com/tejas_falke__/)
+- 📫 How to reach me https://www.instagram.com/tejas_falke__/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
