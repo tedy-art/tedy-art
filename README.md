@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [To Do](https://github.com/tedy-art/sai_task)
 
-- 🌱 I’m currently learning **python lang, Django Framework**
+- 🌱 I’m currently learning **Python lang, Django Framework**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tedy-art](https://github.com/tedy-art)
+- 👨‍💻 All of my projects are available at [tedy-art](https://github.com/tedy-art)
 
-- 💬 Ask me about **django**
+- 💬 Ask me about **Django Framework.**
 
-- 📫 How to reach me **https://www.instagram.com/tejas_falke__/**
+- 📫 How to reach me **[@tejas_falke__]([https://github.com/tedy-art](https://www.instagram.com/tejas_falke__/))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
