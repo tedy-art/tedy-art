@@ -1,4 +1,4 @@
-Self taught | Python | Django | SQLite | HTML | CSS | web_dev |
+
 <h1 align="center">Hi 👋, I'm Tejas Falke</h1>
 <h3 align="center">A passionate django dackend developer from India</h3>
 
