@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tejas Falke</h1>
-<h3 align="center">A passionate <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> django backend developer from India</h3>
+<h3 align="center">A passionate django backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tedy-art&label=Profile%20views&color=0e75b6&style=flat" alt="tedy-art" /> </p>
 
