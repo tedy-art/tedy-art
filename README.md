@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Djnago REST Framework**(API).
 
-- 🌱 I’m currently learning **Python lang, Django Framework**
+- 🌱 I’m currently learning **[Python](https://github.com/tedy-art/A-To-Z-Python), [Django Framework](https://github.com/tedy-art/DRF)**
 
 - 👨‍💻 All of my projects are available at [tedy-art](https://github.com/tedy-art)
 
